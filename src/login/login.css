@@ -1,10 +1,10 @@
 .wrapper {
-  width: 420px;
+  width: 100%;
   background: grey;
   color: #fff;
 }
 .wrapper {
-  font-size: 26px;
+  font-size: 18px;
   text-align: center;
   border-radius: 20px;
   padding: 30px 40px;
